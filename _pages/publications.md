@@ -138,13 +138,38 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 ## Journal Publications
 <ol class="biblist">
 
+<!-- Item: yang2020particle -->
+<li ><p>
+<b>Particle-Laden Droplet-Driven Triboelectric Nanogenerator for Real-Time Sediment Monitoring using Deep Learning Method</b><br>
+Lei Yang, Yunfei Wang, <b>Zhibin Zhao</b>, Yanjie Guo, Sicheng Chen, Weiqiang Zhang and Xiao Guo<br>
+
+<i>ACS Applied Materials \& Interfaces</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('yang2020particle')" class="textlink">[bibtex]</a>
+<a href="https://pubs.acs.org/doi/abs/10.1021/acsami.0c10714" class="textlink" target="_blank">[arXiv]</a>
+</p>
+
+<div id="bib_yang2020particle" class="bibtex noshow">
+<pre>
+@article{yang2020particle,
+  title={Particle-Laden Droplet-Driven Triboelectric Nanogenerator for Real-Time Sediment Monitoring using Deep Learning Method},
+  author={Yang, Lei and Wang, Yunfei and Zhao, Zhibin and Guo, Yanjie and Chen, Sicheng and Zhang, Weiqiang and Guo, Xiao},
+  journal={ACS Applied Materials \& Interfaces},
+  year={2020},
+  publisher={ACS Publications}
+}
+</pre></div>
+</li>
+
+
 
 <!-- Item: wu2020few -->
 <li ><p>
 <b>Few-shot Transfer Learning for Intelligent Fault Diagnosis of Machine</b><br>
 Jingyao Wu, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
 
-<i>arXiv preprint arXiv:2003.03315</i>,
+<i>Measurement</i>,
 
 2020<br>
 <a href="javascript:toggleBibtex('wu2020few')" class="textlink">[bibtex]</a>
