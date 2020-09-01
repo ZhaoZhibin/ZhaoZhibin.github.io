@@ -50,31 +50,6 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
 
 
-<!-- Item: zhao2020deep -->
-<li ><p>
-<b>Deep Learning Algorithms for Rotating Machinery Intelligent Diagnosis: An Open Source Benchmark Study</b><br>
-<b>Zhibin Zhao</b>, Tianfu Li, Jingyao Wu, Chuang Sun, Shibin Wang, Ruqiang Yan and Xuefeng Chen<br>
-
-<i>arXiv preprint arXiv:2003.03315</i>,
-
-2020<br>
-<a href="javascript:toggleBibtex('zhao2020deep')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/2003.03315" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/ZhaoZhibin/DL-based-Intelligent-Diagnosis-Benchmark" class="textlink" target="_blank">[codes]</a>
-</p>
-
-<div id="bib_zhao2020deep" class="bibtex noshow">
-<pre>
-@article{zhao2020deep,
-  title={Deep Learning Algorithms for Rotating Machinery Intelligent Diagnosis: An Open Source Benchmark Study},
-  author={Zhibin Zhao and Tianfu Li and Jingyao Wu and Chuang Sun and Shibin Wang and Ruqiang Yan and Xuefeng Chen},
-  journal={arXiv preprint arXiv:2003.03315},
-  year={2020}
-}
-</pre></div>
-</li>
-
-
 <!-- Item: zhao2019unsupervised -->
 <li ><p>
 <b>Unsupervised Deep Transfer Learning for Intelligent Fault Diagnosis: An Open Source and Comparative Study</b><br>
@@ -138,16 +113,44 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 ## Journal Publications
 <ol class="biblist">
 
+
+<!-- Item: zhao2020deep -->
+<li ><p>
+<b>Deep Learning Algorithms for Rotating Machinery Intelligent Diagnosis: An Open Source Benchmark Study</b><br>
+<b>Zhibin Zhao</b>, Tianfu Li, Jingyao Wu, Chuang Sun, Shibin Wang, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>arXiv preprint arXiv:2003.03315</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('zhao2020deep')" class="textlink">[bibtex]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0019057820303335" class="textlink" target="_blank">[link]</a>
+<a href="https://arxiv.org/abs/2003.03315" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/ZhaoZhibin/DL-based-Intelligent-Diagnosis-Benchmark" class="textlink" target="_blank">[codes]</a>
+</p>
+
+<div id="bib_zhao2020deep" class="bibtex noshow">
+<pre>
+@article{zhao2020deep,
+  title={Deep Learning Algorithms for Rotating Machinery Intelligent Diagnosis: An Open Source Benchmark Study},
+  author={Zhibin Zhao and Tianfu Li and Jingyao Wu and Chuang Sun and Shibin Wang and Ruqiang Yan and Xuefeng Chen},
+  journal={ISA Transactions},
+  year={2020}
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
 <!-- Item: yang2020particle -->
 <li ><p>
 <b>Particle-Laden Droplet-Driven Triboelectric Nanogenerator for Real-Time Sediment Monitoring using Deep Learning Method</b><br>
 Lei Yang, Yunfei Wang, <b>Zhibin Zhao</b>, Yanjie Guo, Sicheng Chen, Weiqiang Zhang and Xiao Guo<br>
 
-<i>ACS Applied Materials \& Interfaces</i>,
+<i>ACS Applied Materials & Interfaces</i>,
 
 2020<br>
 <a href="javascript:toggleBibtex('yang2020particle')" class="textlink">[bibtex]</a>
-<a href="https://pubs.acs.org/doi/abs/10.1021/acsami.0c10714" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://pubs.acs.org/doi/abs/10.1021/acsami.0c10714" class="textlink" target="_blank">[link]</a>
 </p>
 
 <div id="bib_yang2020particle" class="bibtex noshow">
@@ -173,7 +176,7 @@ Jingyao Wu, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
 
 2020<br>
 <a href="javascript:toggleBibtex('wu2020few')" class="textlink">[bibtex]</a>
-<a href="https://www.sciencedirect.com/science/article/pii/S0263224120307405?via%3Dihub" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0263224120307405?via%3Dihub" class="textlink" target="_blank">[link]</a>
 <a href="https://github.com/ZhaoZhibin/Few-shot-Transfer-Learning" class="textlink" target="_blank">[codes]</a>
 </p>
 
@@ -760,10 +763,36 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 ## Conference Publications
 <ol class="biblist">
 
+<!-- Item: zhao2020time -->
+<li ><p>
+<b>Time series clustering to examine presence of decrement in Parkinson’s finger-tapping bradykinesia</b><br>
+<b>Zhibin Zhao</b>, Hui Fang, Stefan Williams, Samuel D Relton, Jane Alty, Alex J Casson and David C Wong<br>
+
+<i>2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i>,
+
+2019.<br>
+<a href="javascript:toggleBibtex('zhao2020time')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9175638" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_zhao2020time" class="bibtex noshow">
+<pre>
+@inproceedings{zhao2020time,
+  title={Time series clustering to examine presence of decrement in Parkinson’s finger-tapping bradykinesia},
+  author={Zhao, Zhibin and Fang, Hui and Williams, Stefan and Relton, Samuel D and Alty, Jane and Casson, Alex J and Wong, David C},
+  booktitle={2020 42nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
+  pages={780--783},
+  year={2020},
+  organization={IEEE}
+}
+</pre></div>
+</li>
+
+
 <!-- Item: zhao2020the -->
 <li ><p>
 <b>The sparse and low-rank interpretation of SVD-based denoising for vibration signals</b><br>
-Shuming Wu, Xuefeng Chen, Pete Russhard, Ruqiang Yan, Shaohua Tian, Shibin Wang and <b>Zhibin Zhao</b><br>
+<b>Zhibin Zhao</b>, Shibin Wang, David Wong, Yanjie Guo and Xuefeng Chen<br>
 
 <i>2020 IEEE International Instrumentation and Measurement Technology Conference <b>(I2MTC)</b></i>,
 
