@@ -119,7 +119,7 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 <b>Deep Learning Algorithms for Rotating Machinery Intelligent Diagnosis: An Open Source Benchmark Study</b><br>
 <b>Zhibin Zhao</b>, Tianfu Li, Jingyao Wu, Chuang Sun, Shibin Wang, Ruqiang Yan and Xuefeng Chen<br>
 
-<i>arXiv preprint arXiv:2003.03315</i>,
+<i>ISA Transactions</i>,
 
 2020<br>
 <a href="javascript:toggleBibtex('zhao2020deep')" class="textlink">[bibtex]</a>
