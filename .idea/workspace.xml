@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef9a15a-15bb-47c3-a794-56757859074c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/codes.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/codes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +79,7 @@
       <workItem from="1596925512367" duration="356000" />
       <workItem from="1598977978983" duration="1329000" />
       <workItem from="1599156439717" duration="40000" />
+      <workItem from="1612327314513" duration="3807000" />
     </task>
     <servers />
   </component>
@@ -82,14 +87,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2149" y="190" key="SettingsEditor" timestamp="1594766748068">
-      <screen x="1680" y="23" width="1920" height="1057" />
-    </state>
-    <state x="2149" y="190" key="SettingsEditor/1680.23.1920.1057/0.23.1680.1027@1680.23.1920.1057" timestamp="1594766748068" />
-    <state x="287" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1599156439651">
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1612327314959">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="287" y="374" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1599156439651" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/1680.23.1920.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1612327314959" />
   </component>
   <component name="masterDetails">
     <states>

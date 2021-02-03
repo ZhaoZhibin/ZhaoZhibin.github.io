@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-
-* I am currently a visiting Ph.D. student in the Department of Computer Science and the Center for Health Informatics at [University of Manchester](https://www.manchester.ac.uk/)
+* I am currently an assistant professor in the [School of Mechanical Engineering](http://mec.xjtu.edu.cn/) 
+at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/).
+* I was a visiting Ph.D. student in the Department of Computer Science and the Center for Health Informatics at [University of Manchester](https://www.manchester.ac.uk/)
 advised by Prof. [David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/) and Prof.
 [David Clifton](http://www.robots.ox.ac.uk/~davidc/).
-* I am a Ph.D. student in the [School of Mechanical Engineering](http://mec.xjtu.edu.cn/) 
+* I received my Ph.D. Degree in the [School of Mechanical Engineering](http://mec.xjtu.edu.cn/) 
 at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), 
 advised by Prof. [Shibin Wang](http://gr.xjtu.edu.cn/web/wangshibin2008) and 
 Prof. [Xuefeng Chen](https://scholar.google.com/citations?user=h47O1xYAAAAJ&hl=zh-CN). 

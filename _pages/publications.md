@@ -76,30 +76,6 @@ function toggleBibtex(articleid) {
 
 
 
-<!-- Item: li2019waveletkernelnet -->
-<li ><p>
-<b>WaveletKernelNet: An Interpretable Deep Neural Network for Industrial Intelligent Diagnosis</b><br>
-Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan and Robert X Gao<br>
-
-<i>arXiv preprint arXiv:1911.07925</i>,
-
-2019<br>
-<a href="javascript:toggleBibtex('li2019waveletkernelnet')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1911.07925" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/HazeDT/WaveletKernelNet" class="textlink" target="_blank">[codes]</a>
-
-</p>
-
-<div id="bib_li2019waveletkernelnet" class="bibtex noshow">
-<pre>
-@article{li2019waveletkernelnet,
-  title={WaveletKernelNet: An Interpretable Deep Neural Network for Industrial Intelligent Diagnosis},
-  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Cheng, Li and Chen, Xuefeng and Yan, Ruqaing and Gao, Robert X},
-  journal={arXiv preprint arXiv:1911.07925},
-  year={2019}
-}
-</pre></div>
-</li>
 
 
 
@@ -112,6 +88,195 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 
 ## Journal Publications
 <ol class="biblist">
+<!-- Item: zhao2021robust-->
+<li ><p>
+<b>Robust enhanced trend filtering with unknown noise</b><br>
+<b>Zhibin Zhao</b>, Shibin Wang, David Wong, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>Signal Processing</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('zhao2021robust')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1016/j.sigpro.2020.107889" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/ZhaoZhibin/RobustETF" class="textlink" target="_blank">[codes]</a>
+
+</p>
+
+<div id="bib_zhao2021robust" class="bibtex noshow">
+<pre>
+@article{zhao2021robust,
+  title={Robust enhanced trend filtering with unknown noise},
+  author={Zhao, Zhibin and Wang, Shibin and Wong, David and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Signal Processing},
+  volume={180},
+  pages={107889},
+  year={2021},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
+
+<!-- Item: li2019waveletkernelnet -->
+<li ><p>
+<b>WaveletKernelNet: An Interpretable Deep Neural Network for Industrial Intelligent Diagnosis</b><br>
+Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan and Robert X Gao<br>
+
+<i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('li2019waveletkernelnet')" class="textlink">[bibtex]</a>
+<a href="https://arxiv.org/abs/1911.07925" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/HazeDT/WaveletKernelNet" class="textlink" target="_blank">[codes]</a>
+
+</p>
+
+<div id="bib_li2019waveletkernelnet" class="bibtex noshow">
+<pre>
+@article{li2019waveletkernelnet,
+  title={WaveletKernelNet: An Interpretable Deep Neural Network for Industrial Intelligent Diagnosis},
+  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Cheng, Li and Chen, Xuefeng and Yan, Ruqaing and Gao, Robert X},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+
+<!-- Item: li2020multi-->
+<li ><p>
+<b>Multi-receptive Field Graph Convolutional Networks for Machine Fault Diagnosis</b><br>
+Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>IEEE Transactions on Industrial Electronics</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('li2020multi')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9280401" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_li2020multi" class="bibtex noshow">
+<pre>
+@article{li2020multi,
+  title={Multi-receptive Field Graph Convolutional Networks for Machine Fault Diagnosis},
+  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Industrial Electronics},
+  year={2020},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+<!-- Item: yang2020interpreting-->
+<li ><p>
+<b>Interpreting network knowledge with attention mechanism for bearing fault diagnosis</b><br>
+Zhibo Yang, Junpeng Zhang, <b>Zhibin Zhao</b>, Zhi Zhai and Xuefeng Chen<br>
+
+<i>Applied Soft Computing</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('yang2020interpreting')" class="textlink">[bibtex]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1568494620307675" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_yang2020interpreting" class="bibtex noshow">
+<pre>
+@article{yang2020interpreting,
+  title={Interpreting network knowledge with attention mechanism for bearing fault diagnosis},
+  author={Yang, Zhi-bo and Zhang, Jun-peng and Zhao, Zhi-bin and Zhai, Zhi and Chen, Xue-feng},
+  journal={Applied Soft Computing},
+  volume={97},
+  pages={106829},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+<!-- Item: miao2020u-->
+<li ><p>
+<b>A U-Net-Based Approach for Tool Wear Area Detection and Identification</b><br>
+Huihui Miao, <b>Zhibin Zhao</b>, Chuang Sun, Bing Li and Ruqiang Yan<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('miao2020u')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9238462" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_miao2020u" class="bibtex noshow">
+<pre>
+@article{miao2020u,
+  title={A U-Net-Based Approach for Tool Wear Area Detection and Identification},
+  author={Miao, Huihui and Zhao, Zhibin and Sun, Chuang and Li, Bing and Yan, Ruqiang},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--10},
+  year={2020},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: zhang2020faster -->
+<li ><p>
+<b>Faster Multiscale Dictionary Learning Method With Adaptive Parameter Estimation for Fault Diagnosis of Traction Motor Bearings</b><br>
+Zilong Zhang, <b>Zhibin Zhao</b>, Xiaolong Li, Xingwu Zhang, Shibin Wang, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('zhang2020faster')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9233450" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_zhang2020faster" class="bibtex noshow">
+<pre>
+@article{zhang2020faster,
+  title={Faster Multiscale Dictionary Learning Method With Adaptive Parameter Estimation for Fault Diagnosis of Traction Motor Bearings},
+  author={Zhang, Zilong and Zhao, Zhibin and Li, Xiaolong and Zhang, Xingwu and Wang, Shibin and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--13},
+  year={2020},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+
+<!-- Item: yu2020conditional -->
+<li ><p>
+<b>Conditional Adversarial Domain Adaptation With Discrimination Embedding for Locomotive Fault Diagnosis</b><br>
+Xiaolei Yu, <b>Zhibin Zhao</b>, Xingwu Zhang, Chuang Sun, Baogui Gong, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('yu2020conditional')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9231269" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_yu2020conditional" class="bibtex noshow">
+<pre>
+@article{yu2020conditional,
+  title={Conditional Adversarial Domain Adaptation With Discrimination Embedding for Locomotive Fault Diagnosis},
+  author={Yu, Xiaolei and Zhao, Zhibin and Zhang, Xingwu and Sun, Chuang and Gong, Baogui and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--12},
+  year={2020},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
 
 
 <!-- Item: zhao2020deep -->
@@ -183,9 +348,11 @@ Jingyao Wu, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
 <div id="bib_wu2020few" class="bibtex noshow">
 <pre>
 @article{wu2020few,
-  title={Few-shot Transfer Learning for Intelligent Fault Diagnosis of Machine},
+  title={Few-shot transfer learning for intelligent fault diagnosis of machine},
   author={Wu, Jingyao and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
   journal={Measurement},
+  volume={166},
+  pages={108202},
   year={2020},
   publisher={Elsevier}
 }
@@ -763,6 +930,112 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 ## Conference Publications
 <ol class="biblist">
 
+<!-- Item: zhao2020adaptive -->
+<li ><p>
+<b>Adaptive lead weighted ResNet trained with different duration signals for classifying 12-lead ECGs</b><br>
+<b>Zhibin Zhao</b>, Hui Fang, Samuel Relton, Ruqiang Yan, Yuhong Liu, Zhijing Li, Jing Qin and David Wong<br>
+
+<i>2020 Computing in Cardiology Conference</i>,
+
+2020.<br>
+<a href="javascript:toggleBibtex('zhao2020adaptive')" class="textlink">[bibtex]</a>
+<a href="http://www.cinc.org/archives/2020/pdf/CinC2020-112.pdf" class="textlink" target="_blank">[link]</a>
+<a href="https://physionetchallenges.org/2020/" class="textlink" target="_blank">[2nd in the CinC/Physionet challenge2020]</a>
+<a href="https://github.com/ZhaoZhibin/Physionet2020model" class="textlink" target="_blank">[codes]</a>
+</p>
+
+<div id="bib_zhao2020adaptive" class="bibtex noshow">
+<pre>
+@inproceedings{zhao2020adaptive,
+  title={Adaptive lead weighted ResNet trained with different duration signals for classifying 12-lead ECGs},
+  author={Zhao, Zhibin and Fang, Hui and Relton, Samuel D and Yan, Ruqiang and Liu, Yuhong and Li, Zhijing and Qin, Jing and Wong, David C},
+  booktitle={2020 Computing in Cardiology Conference},
+  year={2020}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: zhao2020probabilistic -->
+<li ><p>
+<b>Probabilistic Remaining Useful Life Prediction Based on Deep Convolutional Neural Network</b><br>
+Xiaolei Yu, <b>Zhibin Zhao</b>, Xingwu Zhang, Chuang Sun, Qiyang Zhang and Xuefeng Chen<br>
+
+<i>TESConf 2020 - 9th International Conference on Through-life Engineering Services</i>,
+
+2020.<br>
+<a href="javascript:toggleBibtex('zhao2020probabilistic')" class="textlink">[bibtex]</a>
+<a href="http://dx.doi.org/10.2139/ssrn.3717738" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/ZhaoZhibin/Probabilistic_RUL_Prediction" class="textlink" target="_blank">[codes]</a>
+</p>
+
+<div id="bib_zhao2020probabilistic" class="bibtex noshow">
+<pre>
+@inproceedings{zhao2020probabilistic,
+  title={Probabilistic Remaining Useful Life Prediction Based on Deep Convolutional Neural Network},
+  author={Zhao, Zhibin and Wu, Jingyao and Wong, David and Sun, Chuang and Yan, Ruqiang},
+  booktitle={TESConf 2020 - 9th International Conference on Through-life Engineering Services},
+  year={2020}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: yu2020coupling -->
+<li ><p>
+<b>Coupling Deep Models and Extreme Value Theory for Open Set Fault Diagnosis</b><br>
+Xiaolei Yu, <b>Zhibin Zhao</b>, Xingwu Zhang, Chuang Sun, Qiyang Zhang and Xuefeng Chen<br>
+
+<i>2020 International Conference on Sensing, Measurement \& Data Analytics in the era of Artificial Intelligence (ICSMD)</i>,
+
+2020.<br>
+<a href="javascript:toggleBibtex('yu2020coupling')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9261657" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_yu2020coupling" class="bibtex noshow">
+<pre>
+@inproceedings{yu2020coupling,
+  title={Coupling Deep Models and Extreme Value Theory for Open Set Fault Diagnosis},
+  author={Yu, Xiaolei and Zhao, Zhibin and Zhang, Xingwu and Sun, Chuang and Zhang, Qiyang and Chen, Xuefeng},
+  booktitle={2020 International Conference on Sensing, Measurement \& Data Analytics in the era of Artificial Intelligence (ICSMD)},
+  pages={118--123},
+  year={2020},
+  organization={IEEE}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: zhou2020differentiable -->
+<li ><p>
+<b>Differentiable Architecture Search for Aeroengine Bevel Gear Fault Diagnosis</b><br>
+Zheng zhou, Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>2020 International Conference on Sensing, Measurement \& Data Analytics in the era of Artificial Intelligence (ICSMD)</i>,
+
+2020.<br>
+<a href="javascript:toggleBibtex('zhou2020differentiable')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9261641" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_zhou2020differentiable" class="bibtex noshow">
+<pre>
+@inproceedings{zhou2020differentiable,
+  title={Differentiable Architecture Search for Aeroengine Bevel Gear Fault Diagnosis},
+  author={Zhou, Zheng and Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  booktitle={2020 International Conference on Sensing, Measurement \& Data Analytics in the era of Artificial Intelligence (ICSMD)},
+  pages={270--274},
+  year={2020},
+  organization={IEEE}
+}
+</pre></div>
+</li>
+
+
+
+
+
 <!-- Item: zhao2020time -->
 <li ><p>
 <b>Time series clustering to examine presence of decrement in Parkinson’s finger-tapping bradykinesia</b><br>
@@ -770,7 +1043,7 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 
 <i>2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i>,
 
-2019.<br>
+2020.<br>
 <a href="javascript:toggleBibtex('zhao2020time')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/9175638" class="textlink" target="_blank">[link]</a>
 </p>
@@ -796,7 +1069,7 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 
 <i>2020 IEEE International Instrumentation and Measurement Technology Conference <b>(I2MTC)</b></i>,
 
-2019.<br>
+2020.<br>
 <a href="javascript:toggleBibtex('zhao2020the')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/document/9129272" class="textlink" target="_blank">[link]</a>
 </p>
@@ -813,6 +1086,60 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 }
 </pre></div>
 </li>
+
+<!-- Item: li2020multi -->
+<li ><p>
+<b>Multi-scale CNN for Multi-sensor Feature Fusion in Helical Gear Fault Detection</b><br>
+Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>the 8th International Conference on Through-Life Engineering Service (TESConf 2019)</b></i>,
+
+2019.<br>
+<a href="javascript:toggleBibtex('li2020multi')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1016/j.promfg.2020.07.001" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_li2020multi" class="bibtex noshow">
+<pre>
+@article{li2020multi,
+  title={Multi-scale CNN for multi-sensor feature fusion in helical gear fault detection},
+  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Procedia Manufacturing},
+  volume={49},
+  pages={89--93},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: wu2020ss -->
+<li ><p>
+<b>Ss-InfoGAN for Class-Imbalance Classification of Bearing Faults</b><br>
+Jingyao Wu, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>the 8th International Conference on Through-Life Engineering Service (TESConf 2019)</b></i>,
+
+2019.<br>
+<a href="javascript:toggleBibtex('wu2020ss')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1016/j.promfg.2020.07.003" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_wu2020ss" class="bibtex noshow">
+<pre>
+@article{wu2020ss,
+  title={Ss-InfoGAN for Class-Imbalance Classification of Bearing Faults},
+  author={Wu, Jingyao and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Procedia Manufacturing},
+  volume={49},
+  pages={99--104},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
 
 
 

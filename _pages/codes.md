@@ -18,6 +18,12 @@ for the "**[paper](https://arxiv.org/abs/2003.03315)**"
 
 
 <b>Algorithms</b>.
+* [Physionet2020model](https://github.com/ZhaoZhibin/Physionet2020model)
+for the "**[paper](http://www.cinc.org/archives/2020/pdf/CinC2020-112.pdf)**"--2nd in the CinC/Physionet challenge2020
+* [RobustETF](https://github.com/ZhaoZhibin/RobustETF)
+for the "[**paper**](https://doi.org/10.1016/j.sigpro.2020.107889)"
+* [Probabilistic_RUL_Prediction](https://github.com/ZhaoZhibin/Probabilistic_RUL_Prediction)
+for the "[**paper**](http://dx.doi.org/10.2139/ssrn.3717738)"
 * [few-shot transfer](https://github.com/ZhaoZhibin/Few-shot-Transfer-Learning)
 for the "[**paper**](https://www.sciencedirect.com/science/article/pii/S0263224120307405?via%3Dihub)"
 * [FGPAA](https://github.com/ZhaoZhibin/FGPAA)
