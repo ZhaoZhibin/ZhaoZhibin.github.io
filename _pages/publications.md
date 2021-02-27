@@ -959,7 +959,7 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 <!-- Item: zhao2020probabilistic -->
 <li ><p>
 <b>Probabilistic Remaining Useful Life Prediction Based on Deep Convolutional Neural Network</b><br>
-Xiaolei Yu, <b>Zhibin Zhao</b>, Xingwu Zhang, Chuang Sun, Qiyang Zhang and Xuefeng Chen<br>
+<b>Zhibin Zhao</b>, Jingyao Wu, David Wong, Chuang Sun and Ruqiang Yan<br>
 
 <i>TESConf 2020 - 9th International Conference on Through-life Engineering Services</i>,
 
