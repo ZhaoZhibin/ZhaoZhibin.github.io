@@ -50,33 +50,6 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
 
 
-<!-- Item: zhao2019unsupervised -->
-<li ><p>
-<b>Unsupervised Deep Transfer Learning for Intelligent Fault Diagnosis: An Open Source and Comparative Study</b><br>
-<b>Zhibin Zhao</b>, Qiyang Zhang, Xiaolei Yu, Chuang Sun, Shibin Wang, Ruqiang Yan and Xuefeng Chen<br>
-
-<i>arXiv preprint arXiv:1912.12528</i>,
-
-2019<br>
-<a href="javascript:toggleBibtex('zhao2019unsupervised')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1912.12528" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/ZhaoZhibin/UDTL" class="textlink" target="_blank">[codes]</a>
-</p>
-
-<div id="bib_zhao2019unsupervised" class="bibtex noshow">
-<pre>
-@article{zhao2019unsupervised,
-  title={Unsupervised Deep Transfer Learning for Intelligent Fault Diagnosis: An Open Source and Comparative Study},
-  author={Zhao, Zhibin and Zhang, Qiyang and Yu, Xiaolei and Sun, Chuang and Wang, Shibin and Yan, Ruqiang and Chen, Xuefeng},
-  journal={arXiv preprint arXiv:1912.12528},
-  year={2019}
-}
-</pre></div>
-</li>
-
-
-
-
 
 
 </ol>
@@ -88,6 +61,359 @@ function toggleBibtex(articleid) {
 
 ## Journal Publications
 <ol class="biblist">
+
+<!-- Item: yu2022monitoring-->
+<li ><p>
+<b>Monitoring on triboelectric nanogenerator and deep learning method</b><br>
+Jian Yu, Leiyang*, <b>Zhibin Zhao*</b>, Yanjie Guo and Xiao Guo<br>
+
+<i>Nano Energy</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('yu2022monitoring')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1016/j.nanoen.2021.106698" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_yu2022monitoring" class="bibtex noshow">
+<pre>
+@article{yu2022monitoring,
+  title={Monitoring on triboelectric nanogenerator and deep learning method},
+  author={Yu, Jian and Wen, Yu and Yang, Lei and Zhao, Zhibin and Guo, Yanjie and Guo, Xiao},
+  journal={Nano Energy},
+  volume={92},
+  pages={106698},
+  year={2022},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
+
+<!-- Item: zhao2021fast-->
+<li ><p>
+<b>Fast Sparsity-Assisted Signal Decomposition with Non-Convex Enhancement for Bearing Fault Diagnosis</b><br>
+<b>Zhibin Zhao</b>, Shibin Wang, David Wong, Wendong Wang, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>IEEE/ASME Transactions on Mechatronics</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('zhao2021fast')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1109/TMECH.2021.3103287" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/ZhaoZhibin/Fast_SASD" class="textlink" target="_blank">[codes]</a>
+
+</p>
+
+<div id="bib_zhao2021fast" class="bibtex noshow">
+<pre>
+@article{zhao2021fast,
+  title={Fast sparsity-assisted signal decomposition with non-convex enhancement for bearing fault diagnosis},
+  author={Zhao, Zhibin and Wang, Shibin and Wong, David and Wang, Wendong and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE/ASME Transactions on Mechatronics},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: zhao2021applications-->
+<li ><p>
+<b>Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study</b><br>
+<b>Zhibin Zhao</b>, Qiyang Zhang, Xiaolei Yu, Chuang Sun, Shibin Wang, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('zhao2021applications')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1109/TIM.2021.3116309" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/ZhaoZhibin/UDTL" class="textlink" target="_blank">[codes]</a>
+
+</p>
+
+<div id="bib_zhao2021applications" class="bibtex noshow">
+<pre>
+@article{zhao2021applications,
+  title={Applications of Unsupervised Deep Transfer Learning to Intelligent Fault Diagnosis: A Survey and Comparative Study},
+  author={Zhao, Zhibin and Zhang, Qiyang and Yu, Xiaolei and Sun, Chuang and Wang, Shibin and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: wu2021learning-->
+<li ><p>
+<b>Learning from Class-imbalanced Data with a Model-Agnostic Framework for Machine Intelligent Diagnosis</b><br>
+Jingyao Wu, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>Reliability Engineering \& System Safety</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('wu2021learning')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1016/j.ress.2021.107934" class="textlink" target="_blank">[link]</a>
+
+
+</p>
+
+<div id="bib_wu2021learning" class="bibtex noshow">
+<pre>
+@article{wu2021learning,
+  title={Learning from Class-imbalanced Data with a Model-Agnostic Framework for Machine Intelligent Diagnosis},
+  author={Wu, Jingyao and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Reliability Engineering \& System Safety},
+  volume={216},
+  pages={107934},
+  year={2021},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
+
+<!-- Item: li2021hierarchical-->
+<li ><p>
+<b>Hierarchical attention graph convolutional network to fuse multi-sensor signals for remaining useful life prediction</b><br>
+Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>Reliability Engineering \& System Safety</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('li2021hierarchical')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1016/j.ress.2021.107878" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_li2021hierarchical" class="bibtex noshow">
+<pre>
+@article{li2021hierarchical,
+  title={Hierarchical attention graph convolutional network to fuse multi-sensor signals for remaining useful life prediction},
+  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Reliability Engineering \& System Safety},
+  volume={215},
+  pages={107878},
+  year={2021},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: zhao2021challenges-->
+<li ><p>
+<b>Challenges and Opportunities of AI-Enabled Monitoring, Diagnosis \& Prognosis: A Review</b><br>
+<b>Zhibin Zhao</b>, Jingyao Wu, Tianfu Li, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>Chinese Journal of Mechanical Engineering</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('zhao2021challenges')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1186/s10033-021-00570-7" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_zhao2021challenges" class="bibtex noshow">
+<pre>
+@article{zhao2021challenges,
+  title={Challenges and Opportunities of AI-Enabled Monitoring, Diagnosis \& Prognosis: A Review},
+  author={Zhao, Zhibin and Wu, Jingyao and Li, Tianfu and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Chinese Journal of Mechanical Engineering},
+  volume={34},
+  number={1},
+  pages={1--29},
+  year={2021},
+  publisher={SpringerOpen}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: xu2021multi-->
+<li ><p>
+<b>Multi-Scale Convolutional Gated Recurrent Unit Networks for Tool Wear Prediction in Smart Manufacturing</b><br>
+Weixin Xu, Huihui Miao, <b>Zhibin Zhao</b>, Jinxin Liu, Chuang Sun and Ruqiang Yan<br>
+
+<i>Chinese Journal of Mechanical Engineering</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('xu2021multi')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1186/s10033-021-00565-4" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_xu2021multi" class="bibtex noshow">
+<pre>
+@article{xu2021multi,
+  title={Multi-Scale Convolutional Gated Recurrent Unit Networks for Tool Wear Prediction in Smart Manufacturing},
+  author={Xu, Weixin and Miao, Huihui and Zhao, Zhibin and Liu, Jinxin and Sun, Chuang and Yan, Ruqiang},
+  journal={Chinese Journal of Mechanical Engineering},
+  volume={34},
+  number={1},
+  pages={1--16},
+  year={2021},
+  publisher={Springer}
+}
+</pre></div>
+</li>
+
+
+
+<!-- Item: zhou2021low-->
+<li ><p>
+<b>Low-dimensional multi-scale Fisher discriminant dictionary learning for intelligent gear-fault diagnosis</b><br>
+Li Zhou, Shibin Wang, <b>Zhibin Zhao</b>, Gaigai Cai, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>Measurement Science and Technology</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('zhou2021low')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1088/1361-6501/abf619" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_zhou2021low" class="bibtex noshow">
+<pre>
+@article{zhou2021low,
+  title={Low-dimensional multi-scale Fisher discriminant dictionary learning for intelligent gear-fault diagnosis},
+  author={Zhou, Li and Wang, Shibin and Zhao, Zhibin and Cai, Gaigai and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Measurement Science and Technology},
+  volume={32},
+  number={8},
+  pages={084001},
+  year={2021},
+  publisher={IOP Publishing}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: zhou2021bayesian-->
+<li ><p>
+<b>Bayesian Differentiable Architecture Search for Efficient Domain Matching Fault Diagnosis</b><br>
+Zheng Zhou, Tianfu Li, Zilong Zhang, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('zhou2021bayesian')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1109/TIM.2021.3076575" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_zhou2021bayesian" class="bibtex noshow">
+<pre>
+@article{zhou2021bayesian,
+  title={Bayesian Differentiable Architecture Search for Efficient Domain Matching Fault Diagnosis},
+  author={Zhou, Zheng and Li, Tianfu and Zhang, Zilong and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--11},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: li2021domain-->
+<li ><p>
+<b>Domain Adversarial Graph Convolutional Network for Fault Diagnosis Under Variable Working Conditions</b><br>
+Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('li2021domain')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1109/TIM.2021.3075016" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_li2021domain" class="bibtex noshow">
+<pre>
+@article{li2021domain,
+  title={Domain adversarial graph convolutional network for fault diagnosis under variable working conditions},
+  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--10},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+
+<!-- Item: yu2021deep-->
+<li ><p>
+<b>Deep Learning-Based Open Set Fault Diagnosis by Extreme Value Theory</b><br>
+Xiaolei Yu, <b>Zhibin Zhao</b>, Xingwu Zhang, Qiyang Zhang, Yilong Liu, Chuang Sun and Xuefeng Chen<br>
+
+<i>IEEE Transactions on Industrial Informatics</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('yu2021deep')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1109/TII.2021.3070324" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_yu2021deep" class="bibtex noshow">
+<pre>
+@article{yu2021deep,
+  title={Deep Learning-Based Open Set Fault Diagnosis by Extreme Value Theory},
+  author={Yu, Xiaolei and Zhao, Zhibin and Zhang, Xingwu and Zhang, Qiyang and Liu, Yilong and Sun, Chuang and Chen, Xuefeng},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+
+
+<!-- Item: zhang2021conditional-->
+<li ><p>
+<b>Conditional Adversarial Domain Generalization With a Single Discriminator for Bearing Fault Diagnosis</b><br>
+Qiyang Zhang, <b>Zhibin Zhao</b>, Xingwu Zhang, Yilong Liu, Chuang Sun, Ming Li, Shibin Wang and Xuefeng Chen<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('zhang2021conditional')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1109/TIM.2021.3071350" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_zhang2021conditional" class="bibtex noshow">
+<pre>
+@article{zhang2021conditional,
+  title={Conditional Adversarial Domain Generalization With a Single Discriminator for Bearing Fault Diagnosis},
+  author={Zhang, Qiyang and Zhao, Zhibin and Zhang, Xingwu and Liu, Yilong and Sun, Chuang and Li, Ming and Wang, Shibin and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--15},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+
+
 <!-- Item: zhao2021robust-->
 <li ><p>
 <b>Robust enhanced trend filtering with unknown noise</b><br>
@@ -685,7 +1011,7 @@ Yanjie Guo, <b>Zhibin Zhao</b>, Ruobin Sun and Xuefeng Chen<br>
 
 <i>Wind Energy</i>,
 
-2019. <span style="color:red">(Cover)</span><br>
+2019.<span style="color:red">(Cover)</span><br>
 <a href="javascript:toggleBibtex('guo2019data')" class="textlink">[bibtex]</a>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/we.2309" class="textlink" target="_blank">[link]</a>
 </p>
@@ -748,7 +1074,7 @@ Lei Yang, Yunfei Wang, Yanjie Guo, Weiqiang Zhang and <b>Zhibin Zhao</b><br>
 
 <i>Advanced Materials Interfaces</i>,
 
-2019. <span style="color:red">(Cover)</span><br>
+2019.<span style="color:red">(Cover)</span><br>
 <a href="javascript:toggleBibtex('yang2019robust')" class="textlink">[bibtex]</a>
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/admi.201901547" class="textlink" target="_blank">[link]</a>
 </p>
@@ -765,6 +1091,33 @@ Lei Yang, Yunfei Wang, Yanjie Guo, Weiqiang Zhang and <b>Zhibin Zhao</b><br>
 </pre></div>
 </li>
 
+
+
+<!-- Item: wu2020enhancing -->
+<li ><p>
+<b>Enhancing Sparse Decomposition Based Blade vibration Parameter Identification (in Chinese)</b><br>
+Shuming Wu, Haifeng Hu, <b>Zhibin Zhao</b>, Zhibo Yang Laihao Yang, Shaohua Tian and Xuefeng Chen<br>
+
+<i>机械工程学报</i>,
+
+2019.<br>
+<a href="javascript:toggleBibtex('wu2020enhancing')" class="textlink">[bibtex]</a>
+<a href="http://www.cjmenet.com.cn/CN/10.3901/JME.2019.19.019" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_yang2019robust" class="bibtex noshow">
+<pre>
+@article{wu2020enhancing,
+  title={增强稀疏分解及其在叶片振动参数识别中的应用},
+  author={吴淑明 and 胡海峰 and 赵志斌 and 杨志勃 and 杨来浩 and 田绍华 and 陈雪峰},
+  journal={机械工程学报},
+  volume={55},
+  number={19},
+  pages={19--27},
+  year={2020}
+}
+</pre></div>
+</li>
 
 
 
@@ -927,8 +1280,39 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 
 
 
+
+
+
 ## Conference Publications
 <ol class="biblist">
+
+<!-- Item: wu2021machine -->
+<li ><p>
+<b>Machine Anomaly Detection under Changing Working Condition with Syncretic Self-Regression Auto-Encoder</b><br>
+Jingyao Wu, <b>Zhibin Zhao</b>, Hongbing Shang, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)</i>,
+
+2021.<br>
+<a href="javascript:toggleBibtex('wu2021machine')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9460002" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_wu2021machine" class="bibtex noshow">
+<pre>
+@inproceedings{wu2021machine,
+  title={Machine Anomaly Detection under Changing Working Condition with Syncretic Self-Regression Auto-Encoder},
+  author={Wu, Jingyao and Zhao, Zhibin and Shang, Hongbing and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  booktitle={2021 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)},
+  pages={1--5},
+  year={2021},
+  organization={IEEE}
+}
+</pre></div>
+</li>
+
+
+
 
 <!-- Item: zhao2020adaptive -->
 <li ><p>

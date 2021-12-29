@@ -18,6 +18,8 @@ for the "**[paper](https://arxiv.org/abs/2003.03315)**"
 
 
 <b>Algorithms</b>.
+* [Fast_SASD](https://github.com/ZhaoZhibin/Fast_SASD)
+for the "[**paper**](https://doi.org/10.1109/TMECH.2021.3103287)"
 * [Physionet2020model](https://github.com/ZhaoZhibin/Physionet2020model)
 for the "**[paper](http://www.cinc.org/archives/2020/pdf/CinC2020-112.pdf)**"--2nd in the CinC/Physionet challenge2020
 * [RobustETF](https://github.com/ZhaoZhibin/RobustETF)
